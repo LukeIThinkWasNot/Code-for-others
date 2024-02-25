@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <style>.st1{display:inline}.st1,.st2{fill:#fff}</style>
+  <path class="st2" d="M 6.35 2 L 9.05 2 L 9.05 14.4 L 6.35 14.4 L 6.35 2 Z" style="transform-origin: 7px 8.5px;"/>
+  <path class="st2" d="M 5.599 1.484 L 8.109 1.484 L 8.109 13.884 L 5.599 13.884 L 5.599 1.484 Z" style="transform-origin: 7.133px 8.384px;" transform="matrix(0, 1, -1, 0, 0, 0)"/>
+</svg>
